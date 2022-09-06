@@ -6,10 +6,10 @@
 ![alt text](https://wallpaperaccess.com/full/777518.jpg)
 [Best comeback in history](https://www.youtube.com/watch?v=h4m68r8kWAc&t=144s)
 
-| best laliga 
-|teams  | Are           | Cool  |
+
+|.    teams     |.     players  | Coach |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| barca         |pedri          |xavi  |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
