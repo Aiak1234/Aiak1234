@@ -6,6 +6,13 @@
 ![alt text](https://wallpaperaccess.com/full/777518.jpg)
 [Best comeback in history](https://www.youtube.com/watch?v=h4m68r8kWAc&t=144s)
 
+| best laliga 
+|teams  | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 <!--
 **Aiak1234/Aiak1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
