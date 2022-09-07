@@ -26,6 +26,74 @@ Gavi[^1] is one of my favorite players at barcelona right now.
 
 
 
-[^1]: ![alt text](https://icdn.football-espana.net/wp-content/uploads/2022/02/Gavi-3-1020x574.jpeg) 
-**Aiak1234/Aiak1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: ![alt text](https://icdn.football-espana.net/wp-content/uploads/2022/02/Gavi-3-1020x574.jpeg) 
