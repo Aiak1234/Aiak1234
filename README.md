@@ -13,11 +13,11 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-1.Favorite Barca players 
+Favorite Barca players 
 ⋅⋅* Unordered sub-list. 
 1.Pedri
-⋅⋅1. Saurez
-4. messi
+⋅⋅2. Saurez
+3. messi
 Gavi[^1] is one of my favorite players at barcelona right now.
 
 
